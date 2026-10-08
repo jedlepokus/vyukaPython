@@ -38,8 +38,19 @@ netext = logicka_2
 
 
 skladani_textu = "abc" + "def"
+q = "abc"
+r = "def"
+s = q+r
+
 print(skladani_textu)
 print("*"*10)
 
 rozdil_mezi = "10" + "10"
 a = 10 + 10
+
+q = str(5) + "a"
+
+a = "5"
+r = 5 + int(a)
+
+neco = int("a")

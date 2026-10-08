@@ -1,5 +1,5 @@
 cislo = 11
-pocet_kusu_dobytka = 3
+pocet_kusu_dobytka = 3 
 
 print(pocet_kusu_dobytka)
 print(type(pocet_kusu_dobytka))
